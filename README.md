@@ -13,7 +13,7 @@ The starting point is the chat669 app built in class during weeks 9 and 10, with
 ## What to Do
 1. Accept the GitHub Classroom invitation.
 2. Clone this repo to your local machine.
-3. `cd` into the directory that was created when you cloned the repo (it should be called `hw5-photoChat-<your-github-id>`).
+3. `cd` into the directory that was created when you cloned the repo (it should be called `hw5-photochat-<your-github-id>`).
 4. Run `yarn install` to install all dependencies.
 5. Integrate a firebase project that you “own” into the app (this can be a project you created previously or a new one).
 6. Complete the implementation of `DataModel.addChatImage()`.
