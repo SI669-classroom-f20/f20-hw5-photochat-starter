@@ -2,7 +2,7 @@
 **SI669 Fall 2020**
 
 ## Video Walkthrough
-See the[Demo Video](https://youtu.be/izDEgnqXP7g) for an example of what your video should look like.
+See the [Demo Video](https://youtu.be/izDEgnqXP7g) for an example of what your video should look like.
 
 ## Learning Goals
 This homework will give you practice working user accounts, realtime updates, Firebase Storage, images, and the Camera.
